@@ -1,0 +1,7 @@
+[
+    {
+        "key": "ctrl+shift+enter",
+        "when": "view.workbench.scm.visible",
+        "command": "git.sync"
+    }
+]

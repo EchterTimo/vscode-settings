@@ -1,0 +1,9 @@
+{
+    "if __name__ == '__main__'": {
+        "prefix": "if __name__",
+        "body": [
+            "if __name__ == '__main__':"
+        ],
+        "description": "__name__ == '__main__'"
+    }
+}

@@ -1,0 +1,63 @@
+{
+  // Language specific settings
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.rulers": [
+      80
+    ]
+  },
+  "markdown.preview.doubleClickToSwitchToEditor": false,
+  // Other
+  "update.showReleaseNotes": false,
+  // Editor
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnSave": true,
+  // Explorer
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.copyPathSeparator": "/",
+  // Filex
+  "files.associations": {
+    "requirements.in": "pip-requirements",
+  },
+  "files.exclude": {
+    "__pycache__": true,
+  },
+  // Git
+  "git.autofetch": true,
+  "git.autofetchPeriod": 5,
+  "git.confirmSync": false,
+  "git.ignoreRebaseWarning": true,
+  // Github Copilot
+  "github.copilot.enable": {
+    "*": true,
+    "properties": false,
+  },
+  // Workbench
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editor.tabActionCloseVisibility": false,
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  // Extension specific settings
+  "workbench.iconTheme": "material-icon-theme",
+  "liveshare.populateGitCoAuthors": "never",
+  "autopep8.args": [
+    "--ignore=E731"
+  ],
+  "pylint.args": [
+    "--disable=unnecessary-lambda-assignment"
+  ],
+}
