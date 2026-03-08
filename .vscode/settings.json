@@ -29,6 +29,7 @@
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.copyPathSeparator": "/",
+  "explorer.copyRelativePathSeparator": "/",
   // Filex
   "files.associations": {
     "requirements.in": "pip-requirements",
