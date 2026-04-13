@@ -52,6 +52,8 @@
   "workbench.editor.tabActionCloseVisibility": false,
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Dark Modern",
+  "workbench.editor.useModal": "off",
   // Extension specific settings
   "workbench.iconTheme": "material-icon-theme",
   "liveshare.populateGitCoAuthors": "never",
