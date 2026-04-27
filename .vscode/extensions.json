@@ -16,6 +16,8 @@
         "eamodio.gitlens",
         // other
         "icrawl.discord-vscode",
-        "sandcastle.vscode-open"
+        "sandcastle.vscode-open",
+        "PKief.material-icon-theme",
+        "janisdd.vscode-edit-csv"
     ]
 }

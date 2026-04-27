@@ -3,5 +3,9 @@
         "key": "ctrl+shift+enter",
         "when": "view.workbench.scm.visible",
         "command": "git.sync"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "workbench.action.toggleLightDarkThemes"
     }
 ]

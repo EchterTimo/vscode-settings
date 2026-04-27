@@ -52,6 +52,8 @@
   "workbench.editor.tabActionCloseVisibility": false,
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
+  "workbench.preferredLightColorTheme": "Light Modern",
+  "workbench.preferredDarkColorTheme": "Dark Modern",
   "workbench.colorTheme": "Dark Modern",
   "workbench.editor.useModal": "off",
   // Extension specific settings
@@ -63,4 +65,6 @@
   "pylint.args": [
     "--disable=unnecessary-lambda-assignment"
   ],
+  // Extensions
+  "csv-edit.readOption_hasHeader": "true",
 }
