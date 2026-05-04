@@ -42,6 +42,8 @@
   "git.autofetchPeriod": 5,
   "git.confirmSync": false,
   "git.ignoreRebaseWarning": true,
+  "git.addAICoAuthor":"off",
+  
   // Github Copilot
   "github.copilot.enable": {
     "*": true,
